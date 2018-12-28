@@ -1,0 +1,6 @@
+j=int(input("j"))
+if(j<=20):
+    fact = 1;
+      fact=fact*j
+      j=j-1
+    print(fact)
