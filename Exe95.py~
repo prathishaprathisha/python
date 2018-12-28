@@ -1,0 +1,5 @@
+q=int(input("enter p "))
+v=int(input("enter t"))
+z=int(input("enter r"))
+m=q*v*z//100
+print(m)
